@@ -1,0 +1,19 @@
+html {background-color: rgb(14, 82, 178);}
+footer { background-color: #17b8f8; color: white; text-align: center;}
+h1, h2 { background-color: #17b8f8; color: white; font-family: 'Times New Roman', Times, serif }
+h1 { text-align: center}
+.batman { text-align: center; }
+div { display: block;}
+
+.italic {font-style: italic; font-weight: bold;}
+.bold {font-weight: bold;}
+#all {font-family: 'Times New Roman', Times, serif;}
+.encabezado { background-image: url("img/fondo-comic.jpg"); background-repeat: repeat-x; background-position: cover; background-size: contain; }
+.menu  { color: white; font-weight: 900; font-family: 'Roboto', sans-serif; }
+nav { text-align: center;}
+.fondo-menu {background-color: black; line-height: 50px}
+.github { color: white;}
+.piedepagina {background-color: #17b8f8; }
+p {font-family: 'Merriweather', serif;}
+.creadores {width: 500px; height: 500px;}
+.creadores { text-align: center;}
